@@ -1,7 +1,7 @@
 # Python Loops & Functions Assignment
 
-**Student Name:** [Your Name Here]
-**Super30 Batch:** [Your Batch Here]
+**Student Name:** Rajat Kumar Sahu
+**Super30 Batch:** Sep 2026
 
 ---
 
@@ -25,8 +25,7 @@ Each question is solved in its own file, numbered in the same order as the assig
    ```
    python --version
    ```
-2. Unzip `python_programs.zip` and open the folder in a terminal.
-3. No external libraries are needed. Every program uses only the Python standard library.
+2. No external libraries are needed. Every program uses only the Python standard library.
 
 ## How to Run
 
